@@ -6,7 +6,7 @@ O sistema foi desenvolvido com foco em **produtividade operacional**, **auditori
 
 ## Demo Online (Deploy)
 
-A aplicação está disponível online (- **Plataforma de deploy**: Render):
+A aplicação está disponível online (**Plataforma de deploy**: Render):
 
 - **Front-end**: https://finmail-frontend.onrender.com  
 - **Back-end (API)**: https://finmail-backend.onrender.com  
