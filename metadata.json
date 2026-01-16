@@ -1,0 +1,5 @@
+{
+  "name": "FinMail AI Classifier",
+  "description": "Uma solução inteligente que classifica emails automaticamente em Produtivos ou Improdutivos, sugerindo respostas instantâneas para otimizar o fluxo de trabalho da equipe.",
+  "requestFramePermissions": []
+}
