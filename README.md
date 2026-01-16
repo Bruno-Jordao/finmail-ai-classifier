@@ -1,8 +1,19 @@
 # FinMail AI Classifier
 
-Aplicação web para **classificação inteligente de emails corporativos**, utilizando **utilizando Large Language Models (LLMs)** para análise de conteúdo, prioridade, sentimento e sugestão de resposta.
+Aplicação web para **classificação inteligente de emails corporativos**, utilizando **Large Language Models (LLMs)** para análise de conteúdo, prioridade, sentimento e sugestão de resposta.
 
-O sistema foi desenvolvido com foco em **produtividade operacional**, **auditoria** e **escala**, permitindo tanto o processamento individual quanto em lote de emails no formato .txt.
+O sistema foi desenvolvido com foco em **produtividade operacional**, **auditoria** e **escala**, permitindo tanto o processamento individual quanto em lote de emails no formato `.txt`.
+
+## Demo Online (Deploy)
+
+A aplicação está disponível online:
+
+- **Front-end**: https://finmail-frontend.onrender.com  
+- **Back-end (API)**: https://finmail-backend.onrender.com  
+
+👉 Para testar a aplicação **não é necessário rodar o projeto localmente**, basta acessar o link do front-end.
+
+---
 
 ## Arquitetura
 
@@ -10,13 +21,13 @@ O projeto consiste em:
 - **Front-end**: React + TypeScript + Vite + Tailwind CSS (via CDN) + Comunicação via HTTP com a API
 - **Back-end**: Python + FastAPI + Integração com **Groq AI** (LLMs)
 
-## Pré-requisitos
+## Pré-requisitos (para execução local)
 
 - Node.js (para o front-end)
 - Python 3.8+ (para o back-end)
 - Conta gratuita no **Groq Console**
 
-## Configuração e Execução
+## Configuração e Execução local
 
 ### Back-end (Python)
 
