@@ -29,6 +29,12 @@ O projeto consiste em:
 
 ## Configuração e Execução local
 
+1. Clone o projeto e acesse a pasta raiz
+   ```bash
+   git clone https://github.com/Bruno-Jordao/finmail-ai-classifier.git
+   cd finmail-ai-classifier
+   ```
+
 ### Back-end (Python)
 
 1. Navegue até a pasta do back-end:
